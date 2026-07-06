@@ -1,4 +1,4 @@
-# dissent-o-meter
+# Wikipedia's Telling of Global History
 
 Three different ways of talking about the world 
 
